@@ -1,4 +1,4 @@
-package com.tranzfer.demo.api;
+package com.tranzfer.demo.api.bussines.resource;
 
 import java.util.List;
 
